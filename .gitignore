@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Excel temp files
+~$*.xlsx
+*.xlk
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Generated artefacts
+*.executed.ipynb
+wine.csv
+wine_cleaned.csv
